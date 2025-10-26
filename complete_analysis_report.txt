@@ -1,0 +1,185 @@
+LIFE SATISFACTION ANALYSIS - COMPLETE RESULTS
+=============================================
+
+Analysis Date: Sun Oct 26 14:49:55 2025 
+Sample Size: 19772 
+
+DESCRIPTIVE STATISTICS
+----------------------
+     SLM_01               FAMINCG2                      EHG3_01B                        REE_03         SEX           WGHT_PER           WTBS_001      
+ Min.   : 0.000   < $25k      :2636   HS diploma/equiv      :4741   Not at all             :8581   Male  : 9003   Min.   :   30.81   Min.   :    0.0  
+    WTBS_002          WTBS_003          WTBS_004          WTBS_005          WTBS_006          WTBS_007          WTBS_008          WTBS_009      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_010          WTBS_011          WTBS_012          WTBS_013          WTBS_014          WTBS_015          WTBS_016          WTBS_017    
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0  
+    WTBS_018          WTBS_019          WTBS_020          WTBS_021          WTBS_022          WTBS_023          WTBS_024          WTBS_025      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_026          WTBS_027          WTBS_028          WTBS_029          WTBS_030          WTBS_031        WTBS_032          WTBS_033      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_034          WTBS_035          WTBS_036        WTBS_037          WTBS_038          WTBS_039          WTBS_040          WTBS_041      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_042        WTBS_043          WTBS_044          WTBS_045          WTBS_046          WTBS_047          WTBS_048          WTBS_049      
+ Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_050          WTBS_051          WTBS_052          WTBS_053          WTBS_054          WTBS_055          WTBS_056          WTBS_057    
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0  
+    WTBS_058          WTBS_059          WTBS_060        WTBS_061          WTBS_062          WTBS_063          WTBS_064          WTBS_065      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_066          WTBS_067          WTBS_068          WTBS_069          WTBS_070          WTBS_071        WTBS_072          WTBS_073      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_074          WTBS_075          WTBS_076        WTBS_077          WTBS_078          WTBS_079          WTBS_080          WTBS_081      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_082          WTBS_083          WTBS_084          WTBS_085          WTBS_086          WTBS_087          WTBS_088          WTBS_089      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_090          WTBS_091          WTBS_092          WTBS_093          WTBS_094          WTBS_095          WTBS_096          WTBS_097      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_098          WTBS_099          WTBS_100          WTBS_101        WTBS_102          WTBS_103          WTBS_104          WTBS_105      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_106          WTBS_107          WTBS_108          WTBS_109          WTBS_110          WTBS_111          WTBS_112          WTBS_113      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_114          WTBS_115          WTBS_116          WTBS_117          WTBS_118        WTBS_119          WTBS_120          WTBS_121      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_122          WTBS_123          WTBS_124          WTBS_125          WTBS_126          WTBS_127          WTBS_128          WTBS_129    
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0  
+    WTBS_130          WTBS_131          WTBS_132          WTBS_133          WTBS_134          WTBS_135        WTBS_136        WTBS_137      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0   Min.   :    0.0  
+    WTBS_138          WTBS_139          WTBS_140          WTBS_141          WTBS_142          WTBS_143          WTBS_144        WTBS_145      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0  
+    WTBS_146          WTBS_147          WTBS_148        WTBS_149          WTBS_150          WTBS_151          WTBS_152          WTBS_153      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_154          WTBS_155        WTBS_156          WTBS_157          WTBS_158          WTBS_159          WTBS_160          WTBS_161      
+ Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_162          WTBS_163          WTBS_164          WTBS_165        WTBS_166          WTBS_167          WTBS_168          WTBS_169      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_170        WTBS_171          WTBS_172          WTBS_173          WTBS_174          WTBS_175          WTBS_176        WTBS_177      
+ Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0  
+    WTBS_178          WTBS_179          WTBS_180          WTBS_181        WTBS_182          WTBS_183          WTBS_184          WTBS_185      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_186          WTBS_187          WTBS_188          WTBS_189          WTBS_190          WTBS_191          WTBS_192          WTBS_193      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_194        WTBS_195          WTBS_196          WTBS_197          WTBS_198          WTBS_199          WTBS_200          WTBS_201      
+ Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_202          WTBS_203          WTBS_204          WTBS_205          WTBS_206          WTBS_207          WTBS_208          WTBS_209      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_210          WTBS_211          WTBS_212          WTBS_213          WTBS_214          WTBS_215          WTBS_216          WTBS_217      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_218          WTBS_219          WTBS_220          WTBS_221          WTBS_222          WTBS_223        WTBS_224          WTBS_225      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_226          WTBS_227          WTBS_228          WTBS_229          WTBS_230          WTBS_231          WTBS_232          WTBS_233      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_234          WTBS_235          WTBS_236        WTBS_237          WTBS_238          WTBS_239          WTBS_240          WTBS_241      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_242        WTBS_243          WTBS_244          WTBS_245        WTBS_246          WTBS_247        WTBS_248          WTBS_249    
+ Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0  
+    WTBS_250          WTBS_251          WTBS_252          WTBS_253        WTBS_254          WTBS_255          WTBS_256          WTBS_257      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_258          WTBS_259          WTBS_260          WTBS_261          WTBS_262          WTBS_263          WTBS_264          WTBS_265      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_266        WTBS_267          WTBS_268          WTBS_269          WTBS_270          WTBS_271        WTBS_272        WTBS_273      
+ Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0   Min.   :    0.0  
+    WTBS_274          WTBS_275          WTBS_276          WTBS_277          WTBS_278          WTBS_279          WTBS_280          WTBS_281      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_282          WTBS_283          WTBS_284          WTBS_285          WTBS_286          WTBS_287          WTBS_288          WTBS_289      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_290          WTBS_291          WTBS_292          WTBS_293          WTBS_294          WTBS_295          WTBS_296          WTBS_297      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_298          WTBS_299          WTBS_300          WTBS_301          WTBS_302          WTBS_303          WTBS_304          WTBS_305      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_306          WTBS_307          WTBS_308          WTBS_309          WTBS_310          WTBS_311          WTBS_312        WTBS_313      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0  
+    WTBS_314          WTBS_315          WTBS_316          WTBS_317          WTBS_318          WTBS_319          WTBS_320          WTBS_321      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_322          WTBS_323          WTBS_324          WTBS_325          WTBS_326          WTBS_327          WTBS_328          WTBS_329      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_330          WTBS_331          WTBS_332          WTBS_333          WTBS_334          WTBS_335          WTBS_336          WTBS_337      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_338          WTBS_339        WTBS_340          WTBS_341          WTBS_342          WTBS_343          WTBS_344          WTBS_345    
+ Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0  
+    WTBS_346          WTBS_347          WTBS_348          WTBS_349          WTBS_350          WTBS_351        WTBS_352          WTBS_353      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_354          WTBS_355          WTBS_356          WTBS_357        WTBS_358        WTBS_359          WTBS_360          WTBS_361      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_362          WTBS_363          WTBS_364          WTBS_365          WTBS_366          WTBS_367          WTBS_368        WTBS_369      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0  
+    WTBS_370          WTBS_371        WTBS_372          WTBS_373        WTBS_374        WTBS_375          WTBS_376          WTBS_377      
+ Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_378          WTBS_379          WTBS_380          WTBS_381          WTBS_382          WTBS_383          WTBS_384          WTBS_385      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_386          WTBS_387          WTBS_388          WTBS_389          WTBS_390          WTBS_391          WTBS_392        WTBS_393      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0  
+    WTBS_394          WTBS_395          WTBS_396          WTBS_397          WTBS_398        WTBS_399          WTBS_400          WTBS_401      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_402          WTBS_403          WTBS_404          WTBS_405          WTBS_406          WTBS_407          WTBS_408          WTBS_409      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_410          WTBS_411          WTBS_412          WTBS_413          WTBS_414          WTBS_415          WTBS_416          WTBS_417      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_418          WTBS_419          WTBS_420          WTBS_421          WTBS_422          WTBS_423          WTBS_424          WTBS_425      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_426          WTBS_427        WTBS_428          WTBS_429          WTBS_430          WTBS_431          WTBS_432          WTBS_433      
+ Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_434          WTBS_435        WTBS_436          WTBS_437          WTBS_438          WTBS_439        WTBS_440          WTBS_441      
+ Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_442          WTBS_443          WTBS_444          WTBS_445          WTBS_446          WTBS_447          WTBS_448          WTBS_449      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_450        WTBS_451          WTBS_452          WTBS_453          WTBS_454          WTBS_455          WTBS_456          WTBS_457      
+ Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_458        WTBS_459        WTBS_460          WTBS_461          WTBS_462          WTBS_463          WTBS_464          WTBS_465      
+ Min.   :    0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_466          WTBS_467          WTBS_468          WTBS_469          WTBS_470          WTBS_471          WTBS_472          WTBS_473      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_474        WTBS_475          WTBS_476          WTBS_477          WTBS_478          WTBS_479          WTBS_480          WTBS_481    
+ Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0  
+    WTBS_482          WTBS_483          WTBS_484          WTBS_485          WTBS_486          WTBS_487        WTBS_488          WTBS_489      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_490          WTBS_491          WTBS_492          WTBS_493        WTBS_494          WTBS_495          WTBS_496          WTBS_497      
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0   Min.   :    0.0  
+    WTBS_498          WTBS_499          WTBS_500    
+ Min.   :    0.0   Min.   :    0.0   Min.   :    0  
+ [ reached 'max' / getOption("max.print") -- omitted 6 rows ]
+
+
+REGRESSION MODEL SUMMARY
+------------------------
+
+Call:
+svyglm(formula = SLM_01 ~ FAMINCG2 + EHG3_01B + REE_03 + SEX, 
+    design = des)
+
+Survey design:
+svrepdesign.default(weights = ~WGHT_PER, repweights = "WTBS_[0-9]+", 
+    type = "bootstrap", data = dat_clean, combined.weights = TRUE)
+
+Coefficients:
+                               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     7.38218    0.06568 112.390  < 2e-16 ***
+FAMINCG2$25–49,999              0.37882    0.06207   6.103 2.14e-09 ***
+FAMINCG2$50–74,999              0.55468    0.06371   8.707  < 2e-16 ***
+FAMINCG2$75–99,999              0.63914    0.06392   9.999  < 2e-16 ***
+FAMINCG2$100–124,999            0.81377    0.06983  11.654  < 2e-16 ***
+FAMINCG2$125k+                  0.80246    0.05966  13.451  < 2e-16 ***
+EHG3_01BLess than HS            0.20141    0.05558   3.624 0.000321 ***
+EHG3_01BTrade cert/diploma      0.13735    0.05629   2.440 0.015040 *  
+EHG3_01BCollege/CEGEP non-univ  0.06029    0.04442   1.357 0.175323    
+EHG3_01BUniv < Bachelor         0.21931    0.08024   2.733 0.006505 ** 
+EHG3_01BBachelor's              0.06330    0.04530   1.398 0.162892    
+EHG3_01BUniv > Bachelor         0.06869    0.05722   1.201 0.230521    
+REE_03At least once a day       0.09347    0.03892   2.401 0.016719 *  
+REE_03At least once a week      0.07394    0.04341   1.703 0.089160 .  
+REE_03At least once a month     0.04224    0.05637   0.749 0.454071    
+REE_03At least 3 times a year  -0.08232    0.07736  -1.064 0.287846    
+REE_03Once or twice a year     -0.03359    0.06199  -0.542 0.588144    
+SEXFemale                       0.07000    0.03231   2.166 0.030768 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for gaussian family taken to be 2.462851)
+
+Number of Fisher Scoring iterations: 2
+
+
+
+WALD TEST FOR OVERALL MODEL SIGNIFICANCE
+----------------------------------------
+Wald test for FAMINCG2 EHG3_01B REE_03
+ in svyglm(formula = SLM_01 ~ FAMINCG2 + EHG3_01B + REE_03 + SEX, 
+    design = des)
+F =  17.22004  on  16  and  482  df: p= < 2.22e-16 

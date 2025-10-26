@@ -1,0 +1,25 @@
+── Data Summary ────────────────────────
+                           Values    
+Name                       Piped data
+Number of rows             19922     
+Number of columns          4         
+_______________________              
+Column type frequency:               
+  factor                   3         
+  numeric                  1         
+________________________             
+Group variables            None      
+
+── Variable type: factor ─────────────────────────────────────────────────────
+  skim_variable n_missing complete_rate ordered n_unique
+1 FAMINCG2              0             1 FALSE          6
+2 EHG3_01B              0             1 FALSE          7
+3 REE_03                0             1 FALSE          6
+  top_counts                                
+1 $12: 4575, $25: 4194, $50: 3556, $75: 2821
+2 HS : 4776, Col: 4491, Bac: 3704, Les: 2971
+3 Not: 8646, At : 5056, At : 2767, At : 1518
+
+── Variable type: numeric ────────────────────────────────────────────────────
+  skim_variable n_missing complete_rate mean   sd p0 p25 p50 p75 p100 hist 
+1 SLM_01                0             1 8.76 7.88  0   7   8   9   98 ▇▁▁▁▁

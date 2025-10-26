@@ -1,0 +1,6 @@
+WALD TEST FOR MODEL SIGNIFICANCE
+=================================
+Wald test for FAMINCG2 EHG3_01B REE_03
+ in svyglm(formula = SLM_01 ~ FAMINCG2 + EHG3_01B + REE_03 + SEX, 
+    design = des)
+F =  17.22004  on  16  and  482  df: p= < 2.22e-16 

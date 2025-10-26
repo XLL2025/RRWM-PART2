@@ -1,0 +1,59 @@
+[1] "=== Regression Summary ==="
+
+Call:
+svyglm(formula = SLM_01 ~ FAMINCG2 + EHG3_01B + REE_03, design = des)
+
+Survey design:
+svrepdesign.default(weights = ~WGHT_PER, repweights = "WTBS_[0-9]+", 
+    type = "bootstrap", data = gss_subset_ruth, combined.weights = TRUE)
+
+Coefficients:
+                               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                      8.7639     0.2714  32.295  < 2e-16 ***
+FAMINCG2$25–49,999               0.7872     0.2581   3.051  0.00241 ** 
+FAMINCG2$50–74,999               0.4797     0.2105   2.279  0.02311 *  
+FAMINCG2$75–99,999               0.4148     0.2143   1.936  0.05350 .  
+FAMINCG2$100–124,999             0.5675     0.2372   2.393  0.01711 *  
+FAMINCG2$125k+                   0.5465     0.2058   2.656  0.00817 ** 
+EHG3_01BHS diploma/equiv        -0.3848     0.2296  -1.676  0.09430 .  
+EHG3_01BTrade cert/diploma      -0.5464     0.2206  -2.477  0.01360 *  
+EHG3_01BCollege/CEGEP non-univ  -0.4838     0.2189  -2.210  0.02756 *  
+EHG3_01BUniv < Bachelor         -0.3023     0.3112  -0.971  0.33185    
+EHG3_01BBachelor's              -0.7335     0.1838  -3.991 7.60e-05 ***
+EHG3_01BUniv > Bachelor         -0.3030     0.3266  -0.928  0.35400    
+REE_03At least once a week      -0.3433     0.1933  -1.776  0.07641 .  
+REE_03At least once a month     -0.2392     0.2625  -0.911  0.36259    
+REE_03At least 3 times a year   -0.7161     0.1795  -3.990 7.64e-05 ***
+REE_03Once or twice a year      -0.2886     0.2727  -1.058  0.29044    
+REE_03Not at all                -0.2530     0.1648  -1.535  0.12548    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for gaussian family taken to be 48.36916)
+
+Number of Fisher Scoring iterations: 2
+
+[1] "=== Wald Test ==="
+Wald test for FAMINCG2 EHG3_01B REE_03
+ in svyglm(formula = SLM_01 ~ FAMINCG2 + EHG3_01B + REE_03, design = des)
+F =  2.512787  on  16  and  483  df: p= 0.0010268 
+[1] "=== Coefficients with CI ==="
+# A tibble: 16 × 7
+   term                     estimate std.error statistic   p.value conf.low conf.high
+   <chr>                       <dbl>     <dbl>     <dbl>     <dbl>    <dbl>     <dbl>
+ 1 Income: $25–49k             0.787     0.258     3.05  0.00241    0.280      1.29  
+ 2 Income: $50–74k             0.480     0.211     2.28  0.0231     0.0661     0.893 
+ 3 Income: $75–99k             0.415     0.214     1.94  0.0535    -0.00627    0.836 
+ 4 Income: $100–124k           0.568     0.237     2.39  0.0171     0.101      1.03  
+ 5 Income: $125k+              0.547     0.206     2.66  0.00817    0.142      0.951 
+ 6 EHG3_01BHS diploma/equiv   -0.385     0.230    -1.68  0.0943    -0.836      0.0662
+ 7 Education: Trade/Tech      -0.546     0.221    -2.48  0.0136    -0.980     -0.113 
+ 8 Education: College/CEGEP   -0.484     0.219    -2.21  0.0276    -0.914     -0.0537
+ 9 Education: Univ < BA       -0.302     0.311    -0.971 0.332     -0.914      0.309 
+10 Education: Bachelor's      -0.733     0.184    -3.99  0.0000760 -1.09      -0.372 
+11 Education: Postgrad        -0.303     0.327    -0.928 0.354     -0.945      0.339 
+12 Religion: Weekly           -0.343     0.193    -1.78  0.0764    -0.723      0.0366
+13 Religion: Monthly          -0.239     0.263    -0.911 0.363     -0.755      0.277 
+14 Religion: 3x/year          -0.716     0.179    -3.99  0.0000764 -1.07      -0.363 
+15 Religion: 1–2x/year        -0.289     0.273    -1.06  0.290     -0.824      0.247 
+16 REE_03Not at all           -0.253     0.165    -1.53  0.125     -0.577      0.0709
