@@ -16,14 +16,17 @@ Variables:
 
 **Data Files** 
 Replication package included:
-- RRWM_Ruth_Replication.R
+- RRWM_Ruth_Replication.R: Statistical analysis conducted strictly following the author's approach
 - regression_coefficients.csv: Coefficient estimates with confidence intervals
 - model_summary.csv: Overall model fit statistics
 - wald_test_results.txt: Wald test for overall model significance
 - life_satisfaction_coefficient_plot.png: Visual representation of coefficients
 - complete_analysis_report.txt: Comprehensive analysis output
 - life_satisfaction_complete_results.xlsx: All results in Excel format
-- essential_analysis_objects.RData: R objects for further analysis （cannot upload since oversize）
+- RRWM_Ruth_result.jpg
+- Reproducibility Report.R:Statistical analysis conducted following the general approach of the author
+- descriptive_statistics.txt：Analysis results reproduced following the author's methodological framework
+- regression_results.txt：Analysis results reproduced following the author's methodological framework
 
 No dataset provided but can be retrieved and downloaded from CAnD3 course portal.
 
